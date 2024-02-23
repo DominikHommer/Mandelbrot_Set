@@ -61,7 +61,7 @@ The repository includes four example images and a video:
 ![Seahorse Tail](seahorse_tail.png)  
 *Illustrates the spiral formations known as seahorse tails.*
 
-![Spirale](spirale.png)  
+![Spirale](spiral.png)  
 *Features a spiral pattern within the fractal.*
 
 To view the 30-second journey into the complexity of the Mandelbrot set at high resolution, download and play the video file: [Mandelbrot Video](mandelbrot.mov).
