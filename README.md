@@ -9,7 +9,7 @@ The repository includes the following files:
 - `color.cpp` and `color.h`: Provided by my professor Prof. Dr. Selgrad, these define a function for mapping iteration counts to colors.
 - `mandelbrot.cpp`: Contains the main program that generates images of the Mandelbrot set.
 - `zoom.sh`: A shell script partially provided by the professor to generate a zooming video of the Mandelbrot set.
-- `kardioid.png`, `antenna_of_satellite.png`, `seahorse_tail.png`, `spirale.png`: Example images from different parts of the Mandelbrot set.
+- `kardioid.png`, `antenna_of_satellite.png`, `seahorse_tail.png`, `spiral.png`: Example images from different parts of the Mandelbrot set.
 - `mandelbrot.mov`: A 30-second video showcasing a zoom into the Mandelbrot set at a resolution of 1024x1024 pixels.
 - `Makefile`: to compile the program easy.
 
