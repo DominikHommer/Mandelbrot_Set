@@ -61,10 +61,13 @@ The repository includes four example images and a video:
 ![Seahorse Tail](seahorse_tail.png)  
 *Illustrates the spiral formations known as seahorse tails.*
 
-![Spirale](spirale.png)  
+![Spirale](spiral.png)  
 *Features a spiral pattern within the fractal.*
 
-To view the 30-second journey into the complexity of the Mandelbrot set at high resolution, download and play the video file: [Mandelbrot Video](mandelbrot.mov).
+To view the 30-second journey into the complexity of the Mandelbrot set at high resolution, I initially created a video file (`mandelbrot.mov`). However, due to the file size limit on GitHub (100 MB) and to ensure easy viewing directly on GitHub, I converted the video into a GIF (`mandelbrot.gif`). While the GIF format does not retain the same level of quality as the original `.mov` file, it allows for direct embedding and viewing in this README.
+
+![Mandelbrot GIF](mandelbrot.gif)
+
 
 
 ## Acknowledgements
