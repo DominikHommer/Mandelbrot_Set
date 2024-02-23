@@ -80,5 +80,5 @@ Contributions to the project are welcome, whether they involve refining the algo
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE.txt).
 
