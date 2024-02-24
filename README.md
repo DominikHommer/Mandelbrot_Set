@@ -2,6 +2,15 @@
 
 This repository contains a C++ program and supporting files for visualizing the Mandelbrot set. The Mandelbrot set is a famous fractal that is known for its intricate and beautiful boundary structures that exhibit an infinite level of recursive detail.
 
+## Mandelbrot Set Algorithm
+
+The heart of the Mandelbrot set visualization is based on the iterative algorithm. For each point `c` in the complex plane, the function `f(z) = z^2 + c` is iterated, starting with `z = 0`. A point is considered part of the Mandelbrot set if, under iteration of the function, it does not escape to infinity.
+
+<p align="center">
+  <img src="https://imgur.com/wxz4182.png" alt="Mandelbrot Set Formula">
+</p>
+
+
 ## Structure
 
 The repository includes the following files:
